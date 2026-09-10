@@ -1,22 +1,30 @@
 # Karthik Sarvaraju — Portfolio
 
-Dark, responsive personal portfolio for Karthik Sarvaraju, focused on backend engineering, banking systems, platform modernization, security, and AI developer tooling.
+Personal portfolio website for **Karthik Sarvaraju**, a Software Engineer focused on backend systems, Java/Spring, distributed systems, cloud technologies, security, and AI-powered developer tooling.
 
-## Files
-- `index.html` — portfolio page
-- `styles.css` — dark visual system and responsive layout
-- `script.js` — scroll effects and selected-work modals
-- `resume.pdf` — resume
-- `work-summary.md` — detailed engineering work source used for the experience section
+The portfolio highlights my professional experience, selected engineering work, technical skills, and personal projects.
 
-## Run locally
-Open `index.html` directly, or run:
+## Tech Stack
 
-```bash
-python3 -m http.server 8000
-```
+- HTML
+- CSS
+- JavaScript
 
-Then visit `http://localhost:8000`.
+## Highlights
 
-## Deploy
-This is a static site and can be deployed to GitHub Pages, Vercel, Netlify, Cloudflare Pages, or any static hosting provider.
+- Backend engineering and distributed systems
+- Java & Spring Boot
+- Cloud and DevOps
+- Application security
+- Platform modernization
+- AI / LLM-powered developer tooling
+
+## Links
+
+- Portfolio: https://karthik.sarvaraju.com
+- LinkedIn: https://www.linkedin.com/in/karthiksarvaraju/
+- GitHub: https://github.com/karthikbol
+
+---
+
+Built and maintained by **Karthik Sarvaraju**.
