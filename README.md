@@ -4,11 +4,6 @@ Personal portfolio website for **Karthik Sarvaraju**, a Software Engineer focuse
 
 The portfolio highlights my professional experience, selected engineering work, technical skills, and personal projects.
 
-## Tech Stack
-
-- HTML
-- CSS
-- JavaScript
 
 ## Highlights
 
