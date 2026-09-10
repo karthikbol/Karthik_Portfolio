@@ -16,7 +16,7 @@ The portfolio highlights my professional experience, selected engineering work, 
 
 ## Links
 
-- Portfolio: https://karthik.sarvaraju.com
+- Portfolio: https://karthiksarvaraju.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/karthiksarvaraju/
 - GitHub: https://github.com/karthikbol
 
